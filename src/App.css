@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container .form-container {
+  margin-bottom: 30px;
+}
